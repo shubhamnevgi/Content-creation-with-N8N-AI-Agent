@@ -1,7 +1,6 @@
 #### Content-creation-with-N8N-AI-Agent🤖
 
 # 🎬 Animation Automation Workflow for Social Media
----
 
 Welcome to the **Animation Automation** workflow! This is a powerful n8n workflow designed to automatically create and publish unique, viral-style animated videos to YouTube Shorts and Facebook, all without human intervention.
 
@@ -27,7 +26,6 @@ Here is an example of the video concepts it can generate:
 https://github.com/user-attachments/assets/1abda1a2-64c8-499f-a884-e4958144420c
 
 
----
 
 ## ⚙️ Prerequisites to Run this Workflow (Detailed Guide)
 
@@ -112,6 +110,7 @@ Once you have made these changes, the workflow is ready to run!
 
 If you found this workflow useful and want to support my work, you can buy me a coffee!
 
-[Buy Me a Coffee Link]
+[[Buy Me a Coffee Link]](https://buymeacoffee.com/piplup/e/461299)
 
 Thank you for your support! 🙏
+For any issues or questions, feel free to contact me at [shubhamnevgi27.sn@gmail.com].
